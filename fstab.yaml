@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p17903-e45885.adobeaemcloud.com/bin/franklin.delivery/balanara/ue-aem-edge-services/main"
+    url: "https://author-p17903-e1081208.adobeaemcloud.com/bin/franklin.delivery/balanara/ue-aem-edge-services/main"
     type: "markup"
     suffix: ".html"
